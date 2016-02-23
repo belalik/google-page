@@ -1,0 +1,30 @@
+#top {
+	margin-right: 25px;
+	margin-top: 11px;
+	text-align: right;
+
+	font-family: arial, sans-serif;
+	font-size: 13px;
+
+}
+
+#middle { 
+	width: 272px;
+	margin-top: 175px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+
+
+.name { 
+	white-space: pre;
+	color: gray;
+}
+
+.rest { 
+	white-space: pre;
+	font-weight: 300;
+}
