@@ -8,15 +8,13 @@
 
 }
 
-#middle { 
+#logo { 
 	width: 272px;
 	margin-top: 175px;
 	margin-left: auto;
 	margin-right: auto;
 	
 }
-
-
 
 
 .name { 
@@ -27,4 +25,15 @@
 .rest { 
 	white-space: pre;
 	font-weight: 300;
+}
+
+#search { 
+
+	display: block;
+	background: url("images/in_search.png") right no-repeat;
+	border: 1px solid #d9d9d9;
+	line-height: 38px;
+	width: 584px;
+	margin: auto; 
+	margin-top: 30px;
 }
