@@ -37,3 +37,36 @@
 	margin: auto; 
 	margin-top: 30px;
 }
+
+.buttoni 
+	
+
+	{ 
+		display: inline-block;
+		border: 1px solid #f2f2f2;
+		
+		background-color: #f2f2f2;
+		color: #757575;
+		height: 16px;
+		width: 126px;
+		margin-right: 4px;
+		padding: 8px 10px 10px 10px;
+		text-align: center;
+		cursor: pointer;
+		font-weight: 300;
+
+	}
+
+.buttoni:hover { 
+	border: 1px solid #757575;
+	color: #000000;
+	font-weight: 300;
+}
+
+
+#wrapper {
+    width: 308px;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+
